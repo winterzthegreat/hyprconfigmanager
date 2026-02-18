@@ -2,8 +2,7 @@
 
 > A native GTK4 + Libadwaita GUI for editing your Hyprland compositor configuration — no text editing required.
 
-![screenshot](https://raw.githubusercontent.com/your-repo/hyprconfigmanager/main/screenshot.png)
-
+![screenshot](https://raw.githubusercontent.com/winterzthegreat/hyprconfigmanager/main/screenshot.png)
 ---
 
 ## ✨ Features
